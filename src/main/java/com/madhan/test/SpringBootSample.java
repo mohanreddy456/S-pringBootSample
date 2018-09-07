@@ -11,9 +11,9 @@ import org.springframework.cache.annotation.EnableCaching;
  *
  */
 @SpringBootApplication
-public class JpaCurdExampleApplication {
+public class SpringBootSample {
 	public static void main(String[] args) {
-		SpringApplication.run(JpaCurdExampleApplication.class, args);
+		SpringApplication.run(SpringBootSample.class, args);
 	}
 
 }

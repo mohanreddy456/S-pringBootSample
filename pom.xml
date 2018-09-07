@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>info.inetsolv</groupId>
-	<artifactId>JPACURDEXAMPLE</artifactId>
+	<artifactId>SpringBootSample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>JPACURDEXAMPLE</name>
+	<name>SpringBootSample</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
